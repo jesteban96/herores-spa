@@ -125,3 +125,4 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+vite.config.js.timestamp-1667446116850.mjs
